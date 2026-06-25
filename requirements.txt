@@ -1,0 +1,9 @@
+# requirements.txt
+
+# This project uses only Python standard library modules.
+
+# No external packages are required.
+
+# Python Version
+
+Python >= 3.12

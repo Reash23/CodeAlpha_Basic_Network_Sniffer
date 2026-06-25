@@ -1,0 +1,126 @@
+
+Packet #1
+Time: 02:41:34
+Source IP: 192.168.142.1
+Destination IP: 192.168.142.1
+Protocol: ICMP
+TTL: 128
+Packet Size: 124
+----------------------------------------------------
+
+Packet #2
+Time: 02:41:37
+Source IP: 192.168.142.1
+Destination IP: 192.168.142.1
+Protocol: ICMP
+TTL: 128
+Packet Size: 124
+----------------------------------------------------
+
+Packet #3
+Time: 02:41:43
+Source IP: 192.168.142.1
+Destination IP: 192.168.142.1
+Protocol: ICMP
+TTL: 128
+Packet Size: 124
+----------------------------------------------------
+
+Packet #4
+Time: 02:41:46
+Source IP: 192.168.142.1
+Destination IP: 192.168.142.1
+Protocol: ICMP
+TTL: 128
+Packet Size: 124
+----------------------------------------------------
+
+Packet #5
+Time: 02:43:24
+Source IP: 192.168.142.1
+Destination IP: 192.168.142.1
+Protocol: ICMP
+TTL: 128
+Packet Size: 124
+----------------------------------------------------
+
+Packet #6
+Time: 02:44:58
+Source IP: 192.168.142.1
+Destination IP: 192.168.142.1
+Protocol: ICMP
+TTL: 128
+Packet Size: 124
+----------------------------------------------------
+
+Packet #7
+Time: 02:44:58
+Source IP: 192.168.142.1
+Destination IP: 192.168.142.1
+Protocol: ICMP
+TTL: 128
+Packet Size: 124
+----------------------------------------------------
+
+Packet #8
+Time: 02:44:58
+Source IP: 192.168.142.1
+Destination IP: 192.168.142.1
+Protocol: ICMP
+TTL: 128
+Packet Size: 124
+----------------------------------------------------
+
+Packet #9
+Time: 02:44:58
+Source IP: 192.168.142.1
+Destination IP: 192.168.142.1
+Protocol: ICMP
+TTL: 128
+Packet Size: 124
+----------------------------------------------------
+
+Packet #10
+Time: 02:44:58
+Source IP: 192.168.142.1
+Destination IP: 192.168.142.1
+Protocol: ICMP
+TTL: 128
+Packet Size: 124
+----------------------------------------------------
+
+Packet #11
+Time: 02:44:58
+Source IP: 192.168.142.1
+Destination IP: 239.255.255.250
+Protocol: UDP
+TTL: 4
+Packet Size: 165
+----------------------------------------------------
+
+Packet #12
+Time: 02:44:58
+Source IP: 192.168.142.1
+Destination IP: 239.255.255.250
+Protocol: UDP
+TTL: 4
+Packet Size: 165
+----------------------------------------------------
+
+Packet #13
+Time: 02:45:01
+Source IP: 192.168.142.1
+Destination IP: 239.255.255.250
+Protocol: UDP
+TTL: 4
+Packet Size: 165
+----------------------------------------------------
+
+Packet #14
+Time: 02:45:01
+Source IP: 192.168.142.1
+Destination IP: 239.255.255.250
+Protocol: UDP
+TTL: 4
+Packet Size: 165
+----------------------------------------------------
